@@ -4,11 +4,11 @@
     - Backend: Golang
     - Frontend: ReactJS
 # Link website:
-    - https://hospital-fe-dun.vercel.app
+    - https://hospital-tgmt.vercel.app
     - tk: tk_admin / tk_admin@123456
 # Repo backend
     - https://github.com/duyhung2k4/hospital_be
 # Hướng dẫn:
     - Vào link này: https://34.67.92.57:10000
     - Bấm vào tùy chọn "Nâng cao" -> Tiếp tục
-    - Quay về trang https://hospital-fe-dun.vercel.app/login sẽ đăng nhập được bình thường
+    - Quay về trang https://hospital-tgmt.vercel.app/login sẽ đăng nhập được bình thường
