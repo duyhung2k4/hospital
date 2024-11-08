@@ -6,6 +6,8 @@
 # Link website:
     - https://hospital-fe-dun.vercel.app
     - tk: tk_admin / tk_admin@123456
+# Repo backend
+    - https://github.com/duyhung2k4/hospital_be
 # Hướng dẫn:
     - Vào link này: https://34.67.92.57:10000
     - Bấm vào tùy chọn "Nâng cao" -> Tiếp tục
